@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Мебель из ротанга</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+<h1>Мебель из ротанга</h1>
+<nav>
+<a href="#products">Продукты</a>
+<a href="#about">О нас</a>
+<a href="#contact">Контакты</a>
+</nav>
+</header>
+
+<section id="hero">
+<h2>Красивая и экологичная мебель</h2>
+<p>Лучшие изделия из ротанга для вашего дома</p>
+</section>
+
+<section id="products">
+<h2>Наши товары</h2>
+<div class="product-list">
+<div class="product">
+<img src="images/sofa.jpg" alt="Диван из ротанга" />
+<h3>Диван из ротанга</h3>
+<p>Комфортный и стильный диван для гостиной.</p>
+</div>
+<div class="product">
+<img src="images/table.jpg" alt="Обеденный стол" />
+<h3>Обеденный стол</h3>
+<p>Элегантный стол из ротанга для вашей кухни.</p>
+</div>
+<!-- Добавьте больше товаров по необходимости -->
+</div>
+</section>
+
+<section id="about">
+<h2>О нас</h2>
+<p>Мы специализируемся на изготовлении мебели из ротанга высокого качества. Наши изделия экологичны и долговечны.</p>
+</section>
+
+<section id="contact">
+<h2>Контакты</h2>
+<p>Телефон: +7 123 456 78 90</p>
+<p>Email: info@rattanfurniture.ru</p
